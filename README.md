@@ -1,36 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to my wewebsite 
 
-You can use the [editor on GitHub](https://github.com/mdadeel/Adeel-/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+### lets't start
+
+ im a student trying to have fun
+
+```lets't start
 Syntax highlighted code block
 
 # Header 1
+Home
 ## Header 2
-### Header 3
+About
 
 - Bulleted
 - List
-
+Me
 1. Numbered
 2. List
+Me
 
 **Bold** and _Italic_ and `Code` text
+try to understand the importance of your life 
 
 [Link](url) and ![Image](src)
-```
+```link:https://www.facebook.com/badshahnawas.adeel/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdadeel/Adeel-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+
 
 ### Support or Contact
 
